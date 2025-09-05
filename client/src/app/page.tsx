@@ -2,10 +2,11 @@ import Header from "@/components/Header";
 import LogoCard from "@/components/LogoCard";
 
 const logos = [
+  { src: "/logos/onabil21Logo.png", title: "Onabil 21 Sports Team", meta: "CSECU 21st Batch · 2025" },
   { src: "/logos/CSECU_convocation_logo.png", title: "CSECU Convocation 2025 Logo", meta: "CSECU · 2025" },
   { src: "/logos/H2F_wears_logo.png", title: "H2F Wears", meta: "Begum Rokeya University · 2024" },
   { src: "/logos/The_Odyssey_Quest_logo.png", title: "The Odyssey Quest", meta: "University of Chittagong· 2024" },
-  { src: "/logos/pohela_boishakh_wordmark.png", title: "CUESS Pohela Boishakh", meta: "Chittagon University Entreprenuer & Startup Society· 2025" },
+  { src: "/logos/pohela_boishakh_wordmark.png", title: "CUESS Pohela Boishakh Wordmark", meta: "Chittagon University Entreprenuer & Startup Society· 2025" },
   { src: "/logos/ParkEase_Logo Mica_Version.png", title: "ParkEase Logo", meta: "ParkEase· 2025" },
   { src: "/logos/CUAC_VR_2024_chest_design.png", title: "CUAC VR 2024 Wordmark", meta: "Chittagong University Adventure Club· 2024" },
   { src: "/logos/GNG_Logo_.svg", title: "Gadget N Goods", meta: "Izaz Bin Azam · 2024" },
